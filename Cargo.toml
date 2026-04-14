@@ -8,7 +8,7 @@ edition = "2018"
 
 [dependencies]
 combine = "4.0.0-beta.2"
-rand = { version = "0.7.3", features = ["small_rng"] }
+rand = { version = "0.9.3", features = ["small_rng"] }
 structopt = "0.3.12"
 colored = "1.9.3"
 itertools = "0.9.0"
